@@ -15,7 +15,7 @@ This application is not deployed nor hosted and there is no one way for other us
 ## Demo
 
 A demo has been recorded showcasing both the app usage as well as the app passing unit tests, as per required in the challenge readme requirements.
-The demo can be viewed here: [e-commerce backenddemo]()
+The demo can be viewed here: [e-commerce backend demo](https://watch.screencastify.com/v/zxQXSksSEABE3wZfVA4S)
 
 ## Authors and acknowledgment
 
@@ -23,4 +23,4 @@ This homework assignment was completed and developed by Myles Smith. Starter cod
 
 ## Project status
 
-This project is currently in development.
+This project is feature complete according to the rubric and there is no further development planned at this time.
